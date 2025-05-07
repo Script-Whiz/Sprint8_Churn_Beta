@@ -5,4 +5,4 @@ One hot encoding, EDA, data visualization using different types of graphs, balan
 Scoring, using Accuracy, Precision, Recall, F1 score, and AUC-ROC.
 
 on GitHub:
-https://github.com/Script-Whiz/Sprint8_Churn_Beta/blob/main/notebooks/Sprint8_BetaBank_Churn_ver6.ipynb
+https://github.com/Script-Whiz/Sprint8_Churn_Beta/blob/main/notebooks/Sprint8_BetaBank_Churn_ver7.ipynb
